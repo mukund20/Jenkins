@@ -1,4 +1,4 @@
 #! /usr/bin/python3
 
-printff ("Hello World")
+print ("Hello World")
 
